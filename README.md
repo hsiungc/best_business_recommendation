@@ -15,3 +15,12 @@
 
 <p>•	<b>best_recommendation.pynb</b> - Provides an executive summary and detailed visualization appendix based on exploratory data analysis of the AGM dataset.<br>
 •	<b>holiday_analysis.pynb</b> - Provides an executive summary and detailed visualization appendix examining how sales are impacted on the days before, during and after holidays.<p>
+
+
+<h3>Skills</h3>
+
+<p>•	Exploratory Data Analysis<br>
+•	PostgreSQL<br>
+•	Python (Pandas, NumPy, Matplotlib, Seaborn)<br>
+•	Jupyter Notebook<br>
+•	Communication<p>
